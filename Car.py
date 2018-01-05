@@ -87,3 +87,5 @@ aaa = [1, 2, 6, 3, 7]
 varibals.sort()
 print(varibals)
 
+varibals.sort(reverse=True)
+print(varibals)
